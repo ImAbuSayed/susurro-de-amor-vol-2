@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-amor-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Susurro de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-amor-vol-2/) |
+| **Get License** | [Secure Licensing Rights for Susurro de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-amor-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oye chula, dime si tú sientes la tensión
+> Esta noche oscura pide un poco de acción
+> Tus ojos me llaman, robando mi razón
+> Vente conmigo, let's lose control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
